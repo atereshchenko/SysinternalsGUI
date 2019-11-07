@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysinternalsGUI", "SysinternalsGUI\SysinternalsGUI.csproj", "{2167E340-6FC8-4387-9448-341717858090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenShareFiles", "OpenShareFiles\OpenShareFiles.csproj", "{37F3A906-265B-43D1-AB32-6C04E7B18C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netview", "netview\netview.csproj", "{672F09BB-9599-4DA3-9BA5-89F7AACD03CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2167E340-6FC8-4387-9448-341717858090}.Debug|x86.ActiveCfg = Debug|x86
+		{2167E340-6FC8-4387-9448-341717858090}.Debug|x86.Build.0 = Debug|x86
+		{2167E340-6FC8-4387-9448-341717858090}.Release|x86.ActiveCfg = Release|x86
+		{2167E340-6FC8-4387-9448-341717858090}.Release|x86.Build.0 = Release|x86
+		{37F3A906-265B-43D1-AB32-6C04E7B18C1E}.Debug|x86.ActiveCfg = Debug|x86
+		{37F3A906-265B-43D1-AB32-6C04E7B18C1E}.Debug|x86.Build.0 = Debug|x86
+		{37F3A906-265B-43D1-AB32-6C04E7B18C1E}.Release|x86.ActiveCfg = Release|x86
+		{37F3A906-265B-43D1-AB32-6C04E7B18C1E}.Release|x86.Build.0 = Release|x86
+		{672F09BB-9599-4DA3-9BA5-89F7AACD03CF}.Debug|x86.ActiveCfg = Debug|x86
+		{672F09BB-9599-4DA3-9BA5-89F7AACD03CF}.Debug|x86.Build.0 = Debug|x86
+		{672F09BB-9599-4DA3-9BA5-89F7AACD03CF}.Release|x86.ActiveCfg = Release|x86
+		{672F09BB-9599-4DA3-9BA5-89F7AACD03CF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB74F537-D4B7-4512-BFFC-E41DEAFB0DDB}
+	EndGlobalSection
+EndGlobal
